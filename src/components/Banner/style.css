@@ -1,0 +1,32 @@
+.banner {
+  background-image: url(../../../static/img/rectangle-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 580px;
+  width: 1440px;
+}
+
+.banner .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 16px;
+  left: 596px;
+  position: relative;
+  top: 544px;
+}
+
+.banner .rectangle {
+  background-color: var(--secondary-100);
+  border-radius: 4px;
+  height: 6px;
+  position: relative;
+  width: 50px;
+}
+
+.banner .rectangle-2 {
+  background-color: var(--primary-300);
+  border-radius: 4px;
+  height: 6px;
+  position: relative;
+  width: 50px;
+}

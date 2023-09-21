@@ -1,0 +1,626 @@
+.home {
+  background-color: #fffefd;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div-4 {
+  background-color: var(--bg-100);
+  height: 5112px;
+  position: relative;
+  width: 1440px;
+}
+
+.home .overlap {
+  height: 4336px;
+  left: 0;
+  position: absolute;
+  top: 116px;
+  width: 1440px;
+}
+
+.home .paws {
+  height: 3821px;
+  left: 0;
+  position: absolute;
+  top: 515px;
+  width: 1440px;
+}
+
+.home .shop-by-pets {
+  height: 239px;
+  left: 140px;
+  position: absolute;
+  top: 640px;
+  width: 1160px;
+}
+
+.home .frame-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 40px;
+  left: -7px;
+  position: absolute;
+  top: 63px;
+}
+
+.home .dog-2 {
+  height: 176.46px;
+  position: relative;
+  width: 162px;
+}
+
+.home .div-wrapper {
+  height: 149px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.home .overlap-group-3 {
+  height: 149px;
+  position: relative;
+}
+
+.home .dog-paw {
+  height: 149px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 153px;
+}
+
+.home .element {
+  height: 120px;
+  left: 40px;
+  position: absolute;
+  top: 24px;
+  width: 120px;
+}
+
+.home .text-wrapper-16 {
+  color: var(--textblack);
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 56px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+}
+
+.home .text-wrapper-17 {
+  color: var(--textblack);
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 47px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+}
+
+.home .text-wrapper-18 {
+  color: var(--textblack);
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 50px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+}
+
+.home .dog-3 {
+  height: 176.46px;
+  margin-right: -2px;
+  position: relative;
+  width: 162px;
+}
+
+.home .text-wrapper-19 {
+  color: var(--textblack);
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 33px;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 156px;
+}
+
+.home .una-gran-variedad-de {
+  color: var(--primary-300);
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 640px;
+}
+
+.home .text-wrapper-20 {
+  color: var(--secondary-500);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 600px;
+}
+
+.home .featured-products {
+  height: 771px;
+  left: 140px;
+  position: absolute;
+  top: 959px;
+  width: 1160px;
+}
+
+.home .overlap-2 {
+  height: 708px;
+  left: 0;
+  position: absolute;
+  top: 63px;
+  width: 1160px;
+}
+
+.home .div-5 {
+  height: 708px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1160px;
+}
+
+.home .div-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.home .div-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 40px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+}
+
+.home .ad {
+  background-image: url(../../../static/img/ad-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 708px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.home .productos-destacados {
+  color: var(--primary-300);
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 297px;
+}
+
+.home .ad-2 {
+  height: 220px;
+  left: 140px;
+  position: absolute;
+  top: 1810px;
+  width: 1160px;
+}
+
+.home .shutterstock {
+  height: 220px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 580px;
+}
+
+.home .dog-food {
+  height: 220px;
+  left: 580px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 580px;
+}
+
+.home .best-sellers {
+  height: 397px;
+  left: 140px;
+  position: absolute;
+  top: 2110px;
+  width: 1160px;
+}
+
+.home .product-row-wrapper {
+  height: 334px;
+  left: 0;
+  position: absolute;
+  top: 63px;
+  width: 1160px;
+}
+
+.home .product-row {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 40px;
+  position: relative;
+}
+
+.home .text-wrapper-21 {
+  color: var(--primary-300);
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-22 {
+  color: var(--neutral-500);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 600px;
+}
+
+.home .ad-3 {
+  height: 220px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 2587px;
+  width: 1160px;
+}
+
+.home .latest-products {
+  height: 771px;
+  left: 140px;
+  position: absolute;
+  top: 2887px;
+  width: 1160px;
+}
+
+.home .ad-4 {
+  height: 708px;
+  left: 720px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 440px;
+}
+
+.home .services {
+  height: 484px;
+  left: 140px;
+  position: absolute;
+  top: 3738px;
+  width: 1160px;
+}
+
+.home .text-wrapper-23 {
+  color: var(--textblack);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  width: 624px;
+}
+
+.home .frame-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 50px;
+  left: 0;
+  position: absolute;
+  top: 123px;
+}
+
+.home .frame-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 100px;
+  position: relative;
+}
+
+.home .banner-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.home .brands {
+  height: 157px;
+  left: 140px;
+  position: absolute;
+  top: 4459px;
+  width: 1160px;
+}
+
+.home .brands-logo {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 80px;
+  justify-content: flex-end;
+  left: 413px;
+  position: absolute;
+  top: 77px;
+}
+
+.home .img-2 {
+  height: 80px;
+  object-fit: cover;
+  position: relative;
+  width: 126.71px;
+}
+
+.home .text-wrapper-24 {
+  color: var(--textblack);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: absolute;
+  top: 76px;
+  width: 360px;
+}
+
+.home .footer-instance {
+  background-color: transparent !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 4736px !important;
+}
+
+.home .navbar {
+  box-shadow: var(--gray);
+  height: 116px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1440px;
+}
+
+.home .links-wrapper {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 86px;
+  width: 1440px;
+}
+
+.home .links {
+  background-color: var(--bg-200);
+  height: 30px;
+}
+
+.home .sublinks {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 90px;
+  left: 168px;
+  position: relative;
+  top: 6px;
+}
+
+.home .text-wrapper-25 {
+  color: var(--secondary-600);
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.home .main-bar {
+  background-color: var(--bg-100);
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 26px;
+  width: 1440px;
+}
+
+.home .logo-maxipet-borde {
+  height: 46px;
+  left: 70px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 169px;
+}
+
+.home .options {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 12px;
+  left: 1276px;
+  position: absolute;
+  top: 23px;
+}
+
+.home .img-3 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.home .ellipse-wrapper {
+  background-image: url(../../../static/img/group.png);
+  background-size: 100% 100%;
+  height: 16px;
+  position: relative;
+  width: 18px;
+}
+
+.home .ellipse {
+  background-color: var(--primary-300);
+  border-radius: 3.43px;
+  height: 7px;
+  left: 15px;
+  position: relative;
+  top: -2px;
+  width: 7px;
+}
+
+.home .search-bar {
+  height: 33px;
+  left: 560px;
+  position: absolute;
+  top: 14px;
+  width: 320px;
+}
+
+.home .overlap-3 {
+  height: 33px;
+  position: relative;
+}
+
+.home .input-instance {
+  height: 33px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 320px !important;
+}
+
+.home .design-component-instance-node {
+  height: 33px !important;
+  width: 322px !important;
+}
+
+.home .input-2 {
+  border-color: var(--secondary-200) !important;
+  height: 33px !important;
+  width: 320px !important;
+}
+
+.home .input-3 {
+  color: var(--secondary-200) !important;
+  left: 14px !important;
+  width: 266px !important;
+}
+
+.home .search {
+  height: 17px;
+  left: 288px;
+  position: absolute;
+  top: 8px;
+  width: 17px;
+}
+
+.home .details-3 {
+  background-color: var(--primary-300);
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home .branch {
+  height: 15px;
+  left: 1198px;
+  opacity: 0.9;
+  position: absolute;
+  top: 5px;
+  width: 109px;
+}
+
+.home .location-icon {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.home .sucursal {
+  height: 15px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 93px;
+}
+
+.home .text-wrapper-26 {
+  color: var(--secondary-50);
+  font-family: "Montserrat", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0.36px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.home .frame-5 {
+  height: 10px;
+  left: 81px;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.home .RRSS-2 {
+  height: 13px;
+  left: 1327px;
+  position: absolute;
+  top: 7px;
+  width: 63px;
+}

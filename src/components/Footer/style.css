@@ -1,0 +1,194 @@
+.footer {
+  height: 376px;
+  position: relative;
+  width: 1440px;
+}
+
+.footer .overlap-group-2 {
+  background-color: var(--bg-200);
+  height: 340px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.footer .sections {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 120px;
+  left: 70px;
+  position: absolute;
+  top: 60px;
+}
+
+.footer .div-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .text-wrapper-9 {
+  color: var(--primary-300);
+  font-family: "Montserrat", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .text-wrapper-10 {
+  color: var(--secondary-500);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 240px;
+}
+
+.footer .div-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.footer .text-wrapper-11 {
+  color: var(--secondary-500);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .text-wrapper-12 {
+  color: var(--secondary-500);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .address {
+  height: 20px;
+  margin-right: -2px;
+  position: relative;
+  width: 216px;
+}
+
+.footer .text-wrapper-13 {
+  color: var(--secondary-500);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.footer .telephone {
+  height: 20px;
+  position: relative;
+  width: 117px;
+}
+
+.footer .email {
+  height: 20px;
+  position: relative;
+  width: 157px;
+}
+
+.footer .soporte-maxipet-com {
+  background: transparent;
+  border: none;
+  color: var(--secondary-500);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 0;
+}
+
+.footer .RRSS {
+  height: 13px;
+  position: relative;
+  width: 63px;
+}
+
+.footer .dog-house {
+  height: 40px;
+  left: 123px;
+  position: absolute;
+  top: 300px;
+  width: 38px;
+}
+
+.footer .tree {
+  height: 60px;
+  left: 1287px;
+  position: absolute;
+  top: 280px;
+  width: 53px;
+}
+
+.footer .copyright {
+  background-color: var(--primary-300);
+  height: 36px;
+  left: 0;
+  position: absolute;
+  top: 340px;
+  width: 1440px;
+}
+
+.footer .text-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 2px;
+  left: 439px;
+  position: relative;
+  top: 9px;
+}
+
+.footer .text-wrapper-14 {
+  color: var(--textwhite);
+  font-family: "Calibri-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 17px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+  margin-top: -0.97px;
+  position: relative;
+  width: 533px;
+}
+
+.footer .avila {
+  height: 17.07px;
+  position: relative;
+  width: 27.54px;
+}
